@@ -1,0 +1,238 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.title{
+    color: white;
+}
+.chut{
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.gallery-places{
+
+    background-size: cover;
+    position: relative;
+    padding: 0px;
+}
+
+
+.jumbotron {
+    background: #DD5E89;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F7BB97, #DD5E89);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F7BB97, #DD5E89); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.contact{
+    align-items: center;
+    justify-content: center;
+}
+.chutchut{
+   
+        display: flex;
+        flex-direction: column;
+}
+ul{
+    margin-right: 0;
+    padding-right: 0;
+}
+h2 {
+    padding-top: 0;
+    color:  #DD5E89;
+}
+
+
+.yeet {
+ 
+    text-align: left;
+    text-align: start;
+}
+
+.book{
+    max-width:100%;
+max-height:100%;
+
+}
+.writings{
+    text-align: left;
+}
+.ginny {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    align-content: center;
+
+}
+img{
+    border-radius: 15%;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.innovation{
+    text-shadow: -1px -1px 0 #000000, 1px -1px 0 #000000, -1px 1px 0 #000000, 1px 1px 0 #000000;
+
+  }
+
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.padding {
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+
+.padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+
+
+.card{
+   
+    object-fit: fill;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+h5{
+    font-weight: bold;
+    
+    
+}
+
+.head-foot{
+    display: flex; 
+    align-items: center;
+}
+
+
+
+.nav-item{
+    color: black;
+}
+
+.innovation {
+    color: white;
+}
+
+.container-about{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.padding {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.logo {
+
+    height: 140px;
+    width: auto;
+    position:absolute;
+    left:0;
+    top:32px;
+
+}
+
+
+
+.container-about{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.padding {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.icon-box-left i{
+
+width: 75px;
+display: inline-block;
+text-align: center;
+
+}
+
+.cats{
+ display: flex; 
+ text-align: center;  
+ margin-bottom: 10px;
+ height: 70px;
+ 
+
+}
+
+.review{
+    text-decoration: bold;
+    color: black;
+}
+
+.emily{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.icon-box-border{
+border: 1px solid #ffffff;
+padding: 16px 27px 7px 27px;
+
+
+
+}
+.inside{
+    width: 100%;
+}
+
+
+.color-me{
+    color: black;
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+font-weight: bold;
+text-decoration-color: #D10000;
+}
+
+.container-top {
+
+float: right;
+
+ font-family: 'Montserrat', sans-serif;
+ padding-right: .5rem;
+ padding-left: .5rem;
+ font-size: .9rem;
+ margin-right: 1rem;
+ font-weight: 8px;
+
+}
