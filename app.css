@@ -29,6 +29,11 @@
     
 }
 
+.hometext{
+    text-align: left;
+    justify-content:left ;
+}
+
 .contact{
     align-items: center;
     justify-content: center;
