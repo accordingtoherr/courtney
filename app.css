@@ -29,6 +29,15 @@
     
 }
 
+
+.bookreviews{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 10px;
+    
+}
+
 .hometext{
     text-align: left;
     justify-content:left ;
@@ -48,7 +57,7 @@ ul{
     padding-right: 0;
 }
 h2 {
-    padding-top: 0;
+    padding-top: -20px;
     color:  #DD5E89;
 }
 
@@ -214,6 +223,34 @@ padding: 16px 27px 7px 27px;
 
 
 
+}
+
+.icons{
+    font-size: 42px;
+
+}
+.fa-twitter{
+    padding-left: 7px;
+    padding-right: 7px;
+    color: #2193b0;
+}
+
+.fa-envelope
+{
+    padding-left: 7px;
+    padding-right: 7px;
+    color: #2193b0;
+}
+
+.si-linkedin {
+    padding-right: 7px;
+    color: #2193b0;
+}
+
+
+.contactoliver{
+    max-width: 450px;
+    max-height: 500px;
 }
 .inside{
     width: 100%;
