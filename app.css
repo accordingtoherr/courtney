@@ -276,6 +276,28 @@ font-weight: bold;
 text-decoration-color: #D10000;
 }
 
+.navbar .navbar-brand {
+    padding-top: 0;
+  }
+  .navbar .navbar-toggle.lefty {
+    float: left;
+    margin-left: 15px;
+  }
+  /**FOR DEMO ONLY**/
+  
+  @media (max-width: 768px) {
+    .navbar .navbar-brand {
+      position: absolute;
+      width: 200px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: red;
+    }
+    .navbar .navbar-brand img {
+      margin: 0 auto;
+    }
+  }
+
 .container-top {
 
 float: right;
