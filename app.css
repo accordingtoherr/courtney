@@ -1,6 +1,9 @@
 * {
     font-family: 'Montserrat', sans-serif;
 
+
+
+
 }
 
 .title{
@@ -300,14 +303,23 @@ text-decoration-color: #D10000;
 
 .container-top {
 
+/* ////////////// why is there a float? */
 float: right;
 
  font-family: 'Montserrat', sans-serif;
- padding-right: .5rem;
- padding-left: .5rem;
+
+
+/* ////////////// deleted paddings & margin */
+ /* padding-right: .5rem; */
+ /* padding-left: .5rem; */
  font-size: .9rem;
- margin-right: 1rem;
+ /* margin-right: 1rem; */
  font-weight: 8px;
 
 }
 
+
+/* ////////////// added img */
+img{
+    max-width: 100%;
+}
