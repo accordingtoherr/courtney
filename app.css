@@ -6,8 +6,15 @@
 
 
 
+p.homepage {
+    width:600px;
+}
 
-
+.row.here {
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 .navstyle{
     align-items: center;
